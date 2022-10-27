@@ -1,8 +1,8 @@
 - Hi! 🤠
-- 👋 Hi, I’m Michelle - @onemichitech 
+- 👋 I’m Michelle - @onemichitech 
 - 👀 I’m interested in UX design, illustration, education, and art.
 - 🌱 I’m currently learning Phyton.
-- 💞️ I’m looking to collaborate on Oppia.
+- 🌎 I’m looking to collaborate on a project which aims to make a positive impact.
 
 <!---
 onemichitech/onemichitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
