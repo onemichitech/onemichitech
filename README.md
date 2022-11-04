@@ -1,7 +1,6 @@
 - Hi! 🤠
 - 👋 I’m Michelle - @onemichitech 
 - 👀 I’m passionate about UX design, illustration, education, and art.
-- 🌱 I’m currently learning Phyton.
 - 🌎 I’m looking to collaborate on a project which aims to make a positive impact.
 
 <!---
